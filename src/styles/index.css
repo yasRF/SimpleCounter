@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h1{
+text-align: center;
+background-color:dimgray
+}
+button {
+    float: center;
+    margin: auto;
+    display:flex;
+    border: none;
+    border-radius: 15px;
+
+}
+
+
+
+
